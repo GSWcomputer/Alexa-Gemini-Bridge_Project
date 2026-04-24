@@ -87,3 +87,18 @@ Sinta-se à vontade para abrir Issues ou enviar Pull Requests:
 
 ## 📄 Licença
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+
+---
+<table>
+  <tr>
+    <td width="150px"><img src="https://github.com/GSWcomputer.png" width="100px;" alt="Gilliardson"/></td>
+    <td>
+      <strong>Gilliardson</strong><br>
+      Administrador de Redes, Especialista em Cybersecurity & Desenvolvedor Python. <br>
+      Com sólida experiência em infraestrutura de missão crítica (BGP, MikroTik, Huawei e Cisco). Baseado no Rio de Janeiro, utiliza sua expertise técnica para explorar as fronteiras da Inteligência Artificial e Automação. É o desenvolvedor por trás do projeto **LucroMax** e entusiasta de soluções que unem hardware e software para resolver problemas do cotidiano.
+
+📫 **Conecte-se comigo:**
+* [LinkedIn] https://bit.ly/gilliardson-swy
+    </td>
+  </tr>
+</table>
