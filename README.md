@@ -1,4 +1,5 @@
 # 🚀 Alexa-Gemini-Bridge: Conversational AI with Stateful Memory
+<img width="2816" height="1536" alt="Gemini_Generated_Image_a8jndaa8jndaa8jn" src="https://github.com/user-attachments/assets/04159e1a-2208-4088-8102-e33ef19608fc" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
