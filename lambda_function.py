@@ -9,7 +9,7 @@ from ask_sdk_core.dispatch_components import AbstractRequestHandler
 from ask_sdk_core.dispatch_components import AbstractExceptionHandler
 
 # Configurações de Infraestrutura
-API_KEY = "AIzaSyCDz47pVX9ccf-vWo4g1C0RWHBHyvsq0ko".strip()
+API_KEY = "API-KEY".strip()
 MODELO = "gemini-2.5-flash" 
 MAX_HISTORICO = 6 # Mantém o buffer de memória estável para conversação
 
