@@ -94,7 +94,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
   <tr>
     <td width="150px"><img src="https://github.com/GSWcomputer.png" width="100px;" alt="Gilliardson"/></td>
     <td>
-      <strong>Gilliardson</strong><br>
+      <strong>Gilliardson Swy</strong><br>
       Administrador de Redes, Especialista em Cybersecurity & Desenvolvedor Python. <br>
       Com sólida experiência em infraestrutura de missão crítica (BGP, MikroTik, Huawei e Cisco). Baseado no Rio de Janeiro, utiliza sua expertise técnica para explorar as fronteiras da Inteligência Artificial e Automação. É o desenvolvedor por trás do projeto **LucroMax** e entusiasta de soluções que unem hardware e software para resolver problemas do cotidiano.
 
